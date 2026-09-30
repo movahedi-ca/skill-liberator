@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: skill-liberator
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Movahedi
+    given-names: Mohammad
+license: MIT
+version: 0.1.0
+date-released: 2026-09-30
+repository-code: "https://github.com/movahedi-ca/skill-liberator"
+keywords:
+  - agent-skills
+  - claude-code
+  - harness-portability
